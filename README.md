@@ -7,4 +7,5 @@ Tatraküpsised
 - 150g tatrajahu
 - veidi soola, paar tera sidrunhapet
 
-Ei vett, ei küpsetuspulbrit
+Ei vett, ei küpsetuspulbrit  
+~20min@180°C
