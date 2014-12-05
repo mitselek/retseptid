@@ -25,5 +25,5 @@ Esimese plaaditäie panin külma, järgmised juba kuuma ahju. Tulemust see kuida
 
 Meil käib aegajalt üks talumees kraami toomas. Seekord saime tatrajahu.  
 Taigen ja küpsised tulid kardinaalselt erinevad; taigen kleepis kausi külge aga käte külge sugugi mitte ja pätsikeste tegemine oli palju mõnusam. 
-Valmis küpsised krõbisevad hamba all vähem, kui poejahust. Maitsestasin sedasi, et pooled küpsised said poole küpsemise peal igaüks tilga lahjendatud mett kuklale. Näeb ilus välja ja kompenseerib liiga vähikest suhkrukogust retseptis.
+Valmis küpsised krõbisevad hamba all vähem, kui poejahust. Maitsestasin sedasi, et pooled küpsised said poole küpsemise peal igaüks tilga lahjendatud mett kuklale. Näeb ilus välja ja kompenseerib liiga vähest suhkrukogust retseptis.
 Hästi mõjus ka see, et raputasin valmis küpsiste kaussi veits soola peale.
