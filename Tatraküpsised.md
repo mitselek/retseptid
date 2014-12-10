@@ -36,3 +36,14 @@ Hästi mõjus ka see, et raputasin valmis küpsiste kaussi veits soola peale.
 - 1 muna
 - 210g tatrajahu
 - 5g soola
+
+### Lepasuitsujuust
+
+- 200g võid
+- 200g riivitud lepasuitsujuustu
+- 100g suhkrut
+- 4 muna
+- 600g tatrajahu
+- 10g soola
+
+Seekord jälle tavaline tatrajahu - taigen tuleb hästi lahti kausi küljest aga pätse teha märksa ebamugavam. Need küpsised hakkavad mulle juba meeldima; suitsumaitse on hea, magusat võiks tiba vähem olla.
