@@ -1,5 +1,6 @@
 Tatraküpsised
 ===========
+    2014-11-21 
 
 - 100g võid
 - 25g suhkrut
@@ -11,6 +12,8 @@ Ei vett, ei küpsetuspulbrit. Sega kõik kokku, jaga pätsikesteks.
 ~20min@180°C
 
 ### Advendi puhul väiksema kalorsusega versioon
+    2014-11-30
+
 - 200g võid
 - 60g suhkrut
 - 2 muna
@@ -22,6 +25,7 @@ Esimese plaaditäie panin külma, järgmised juba kuuma ahju. Tulemust see kuida
 180°C ja ~20 (+5 külma ahju puhul) minutit.
 
 ### Talujahu
+    2014-12-05
 
 Meil käib aegajalt üks talumees kraami toomas. Seekord saime tatrajahu.  
 Taigen ja küpsised tulid kardinaalselt erinevad; taigen kleepis kausi külge aga käte külge sugugi mitte ja pätsikeste tegemine oli palju mõnusam. 
@@ -29,6 +33,7 @@ Valmis küpsised krõbisevad hamba all vähem, kui poejahust. Maitsestasin sedas
 Hästi mõjus ka see, et raputasin valmis küpsiste kaussi veits soola peale.
 
 ### Toorjuust
+    2014-12-07
 
 - 50g võid
 - 100g toorjuustu (kārums)
@@ -38,6 +43,7 @@ Hästi mõjus ka see, et raputasin valmis küpsiste kaussi veits soola peale.
 - 5g soola
 
 ### Lepasuitsujuust
+    2014-12-10
 
 - 200g võid
 - 200g riivitud lepasuitsujuustu
