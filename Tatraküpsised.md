@@ -1,6 +1,6 @@
 Tatraküpsised
 ===========
-    2014-11-21 
+    2014-11-21
 
 - 100g võid
 - 25g suhkrut
@@ -8,7 +8,7 @@ Tatraküpsised
 - 150g tatrajahu
 - veidi soola, paar tera sidrunhapet
 
-Ei vett, ei küpsetuspulbrit. Sega kõik kokku, jaga pätsikesteks.  
+Ei vett, ei küpsetuspulbrit. Sega kõik kokku, jaga pätsikesteks.
 ~20min@180°C
 
 ### Advendi puhul väiksema kalorsusega versioon
@@ -19,16 +19,16 @@ Ei vett, ei küpsetuspulbrit. Sega kõik kokku, jaga pätsikesteks.
 - 2 muna
 - 350g tatrajahu
 - sool
- 
+
 Olen proovinud erisuguse kujuga küpsiseid; suupäraseimaks on osutunud pisikesed peopesas veeretatud kuulikesed.
-Esimese plaaditäie panin külma, järgmised juba kuuma ahju. Tulemust see kuidagipidi ei mõjutanud. 
+Esimese plaaditäie panin külma, järgmised juba kuuma ahju. Tulemust see kuidagipidi ei mõjutanud.
 180°C ja ~20 (+5 külma ahju puhul) minutit.
 
 ### Talujahu
     2014-12-05
 
-Meil käib aegajalt üks talumees kraami toomas. Seekord saime tatrajahu.  
-Taigen ja küpsised tulid kardinaalselt erinevad; taigen kleepis kausi külge aga käte külge sugugi mitte ja pätsikeste tegemine oli palju mõnusam. 
+Meil käib aegajalt üks talumees kraami toomas. Seekord saime tatrajahu.
+Taigen ja küpsised tulid kardinaalselt erinevad; taigen kleepis kausi külge aga käte külge sugugi mitte ja pätsikeste tegemine oli palju mõnusam.
 Valmis küpsised krõbisevad hamba all vähem, kui poejahust. Maitsestasin sedasi, et pooled küpsised said poole küpsemise peal igaüks tilga lahjendatud mett kuklale. Näeb ilus välja ja kompenseerib liiga vähest suhkrukogust retseptis.
 Hästi mõjus ka see, et raputasin valmis küpsiste kaussi veits soola peale.
 
@@ -53,3 +53,18 @@ Hästi mõjus ka see, et raputasin valmis küpsiste kaussi veits soola peale.
 - 10g soola
 
 Seekord jälle tavaline tatrajahu - taigen tuleb hästi lahti kausi küljest aga pätse teha märksa ebamugavam. Need küpsised hakkavad mulle juba meeldima; suitsumaitse on hea, magusat võiks tiba vähem olla.
+
+### Juust toorjuust talujahu
+##### Mahe tatrajahu, Tõrvaaugu talu
+    2014-12-17
+[Kuues küpsisetegu](./IMG_3284.JPG?raw=true "Tatraküpsised")
+
+- 300g võid
+- 200g riivjuustu
+- 175g toorjuustu
+- 660g tatrajahu
+- 6 muna
+- 15g soola
+
+Erakordselt kleepuv taigen. Arvan, et sõtkusin teda oma tund aega enne kui veidi käte küljest lahti tulema hakkas. Samas pätsiveeretamisel sai jällegi puhaste kätega hakkama. Huvitav, mis on see oluline vahe, miks tavaline tatrajahu moodustab kätele sihukese liimikihi ja see mahe, kleepuv talujahu jätab käed puhtaks.
+Aga oi ku head. Seni parimad. Suhkru puudumine tunda ei anna. Toorjuust täitsa äratuntav. Võid oli tiba palju - küpsised ujusid nati rohkem kui tarvis.
