@@ -57,7 +57,8 @@ Seekord jälle tavaline tatrajahu - taigen tuleb hästi lahti kausi küljest aga
 ### Juust toorjuust talujahu
 ##### Mahe tatrajahu, Tõrvaaugu talu
     2014-12-17
-[Kuues küpsisetegu](./IMG_3284.JPG?raw=true "Tatraküpsised")
+
+<img src="./IMG_3284.JPG" width="250px">
 
 - 300g võid
 - 200g riivjuustu
@@ -66,5 +67,5 @@ Seekord jälle tavaline tatrajahu - taigen tuleb hästi lahti kausi küljest aga
 - 6 muna
 - 15g soola
 
-Erakordselt kleepuv taigen. Arvan, et sõtkusin teda oma tund aega enne kui veidi käte küljest lahti tulema hakkas. Samas pätsiveeretamisel sai jällegi puhaste kätega hakkama. Huvitav, mis on see oluline vahe, miks tavaline tatrajahu moodustab kätele sihukese liimikihi ja see mahe, kleepuv talujahu jätab käed puhtaks.
-Aga oi ku head. Seni parimad. Suhkru puudumine tunda ei anna. Toorjuust täitsa äratuntav. Võid oli tiba palju - küpsised ujusid nati rohkem kui tarvis.
+Erakordselt kleepuv taigen. Arvan, et sõtkusin teda oma tund aega enne kui veidi käte küljest lahti tulema hakkas. Samas pätsiveeretamisel sai jällegi puhaste kätega hakkama. Huvitav, mis on see oluline vahe, miks tavaline tatrajahu moodustab kätele sihukese liimikihi ja see mahe, kleepuv talujahu jätab käed puhtaks.  
+Aga oi ku head. Seni parimad! Suhkru puudumine tunda ei anna. Toorjuust täitsa äratuntav. Võid oli tiba palju - küpsised ujusid nati rohkem kui tarvis.
