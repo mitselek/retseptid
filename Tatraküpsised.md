@@ -69,3 +69,18 @@ Seekord jälle tavaline tatrajahu - taigen tuleb hästi lahti kausi küljest aga
 
 Erakordselt kleepuv taigen. Arvan, et sõtkusin teda oma tund aega enne kui veidi käte küljest lahti tulema hakkas. Samas pätsiveeretamisel sai jällegi puhaste kätega hakkama. Huvitav, mis on see oluline vahe, miks tavaline tatrajahu moodustab kätele sihukese liimikihi ja see mahe, kleepuv talujahu jätab käed puhtaks.  
 Aga oi ku head. Seni parimad! Suhkru puudumine tunda ei anna. Toorjuust täitsa äratuntav. Võid oli tiba palju - küpsised ujusid nati rohkem kui tarvis.
+
+### Küüslauk :p
+    2014-12-20
+
+<img src="./IMG_3286.JPG" width="250px">
+
+- 600g võid
+- 100g riivjuustu-~~küüslaugu~~ segu
+- 675g tatrajahu
+- 6 muna
+- 15g soola
+- 20g suhkrut
+
+Selgus, et ma unustasin siiski küüslaugu (enamuse sellest). Samuti tüdisin pabulatest - saagu korralikud junnid. Küpsetasin seekord veidi vähem, küpsis sai vähem kõva ja süües meenutab vägagi tatraputru - üllatus.
+
