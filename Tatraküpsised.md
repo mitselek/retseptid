@@ -84,3 +84,16 @@ Aga oi ku head. Seni parimad! Suhkru puudumine tunda ei anna. Toorjuust täitsa 
 
 Selgus, et ma unustasin siiski küüslaugu (enamuse sellest). Samuti tüdisin pabulatest - saagu korralikud junnid. Küpsetasin seekord veidi vähem, küpsis sai vähem kõva ja süües meenutab vägagi tatraputru - üllatus.
 
+### Laktoosivaba
+    2014-12-26
+
+- 330g võid asendasin 250ml(215g) õliga *
+- 500g peentatrajahu
+- 4 muna
+- 15g soola
+
+\* Sõtkumise ja voolimise käigus jäi 50ml(43g) õli üle.
+
+  Käisin muudkui vahtimas, et millal küpsis värvi muudab aga TA EI MUUTNUDKI! Selleks ajaks kui värv tumenema hakkas, oli küpsis tegelikult juba üle küpsenud. Esimene pannitäis tuli sihuke heade hammastega inimestele.  
+  Kättemaksuks lisasin järelejäänud taignale peoga suureteralist suhkrut ja tegin ahju (200°C) täpselt 20min pärast lahti ja ei mingit piilumist vahepeal. Vat sedasi tehakse parajat küpsist.  
+  Võiga maitses küll palju-palju paremini aga noh - ikkagi laktoosivaba.
