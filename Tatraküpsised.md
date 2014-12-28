@@ -96,4 +96,18 @@ Selgus, et ma unustasin siiski küüslaugu (enamuse sellest). Samuti tüdisin pa
 
   Käisin muudkui vahtimas, et millal küpsis värvi muudab aga TA EI MUUTNUDKI! Selleks ajaks kui värv tumenema hakkas, oli küpsis tegelikult juba üle küpsenud. Esimene pannitäis tuli sihuke heade hammastega inimestele.  
   Kättemaksuks lisasin järelejäänud taignale peoga suureteralist suhkrut ja tegin ahju (200°C) täpselt 20min pärast lahti ja ei mingit piilumist vahepeal. Vat sedasi tehakse parajat küpsist.  
-  Võiga maitses küll palju-palju paremini aga noh - ikkagi laktoosivaba.
+  Võiga maitses küll palju-palju paremini aga noh - ikkagi laktoosivaba.  
+  
+----
+Ehk tulid soolased küpsised seetõttu nii kõvad, et ma taignast viimast kui tilka liigset õli välja mätsida püüdes taigna liiga tihedaks tegin.
+
+### Viimased
+    2014-12-28
+    
+- 200g võid
+- 50g suhkrut
+- 2 muna
+- 300g tatrajahu
+- natuke soola
+
+Suureteralise suhkru segasin sisse viimasena vahetult enne pätsimist.
