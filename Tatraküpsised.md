@@ -101,8 +101,10 @@ Selgus, et ma unustasin siiski küüslaugu (enamuse sellest). Samuti tüdisin pa
 ----
 Ehk tulid soolased küpsised seetõttu nii kõvad, et ma taignast viimast kui tilka liigset õli välja mätsida püüdes taigna liiga tihedaks tegin.
 
-### Viimased
+### Viimased *
     2014-12-28
+    
+<img src="./IMG_3310.JPG" width="250px">
     
 - 200g võid
 - 50g suhkrut
@@ -110,4 +112,7 @@ Ehk tulid soolased küpsised seetõttu nii kõvad, et ma taignast viimast kui ti
 - 300g tatrajahu
 - natuke soola
 
-Suureteralise suhkru segasin sisse viimasena vahetult enne pätsimist.
+Suureteralise suhkru segasin sisse viimasena vahetult enne pätsimist.  
+
+----
+\* Selgus, et tatrajahu asemel olin sepikujahu kasutanud. Seega siis tuleb neid pigem sepikuteks kui tatraküpsisteks kutsuda.
