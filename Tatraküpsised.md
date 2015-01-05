@@ -58,7 +58,7 @@ Seekord jälle tavaline tatrajahu - taigen tuleb hästi lahti kausi küljest aga
 ##### Mahe tatrajahu, Tõrvaaugu talu
     2014-12-17
 
-<img src="./IMG_3284.JPG" width="250px">
+<img src="img/IMG_3284.JPG" width="250px">
 
 - 300g võid
 - 200g riivjuustu
@@ -73,7 +73,7 @@ Aga oi ku head. Seni parimad! Suhkru puudumine tunda ei anna. Toorjuust täitsa 
 ### Küüslauk :p
     2014-12-20
 
-<img src="./IMG_3286.JPG" width="250px">
+<img src="img/IMG_3286.JPG" width="250px">
 
 - 600g võid
 - 100g riivjuustu-~~küüslaugu~~ segu
@@ -104,7 +104,7 @@ Ehk tulid soolased küpsised seetõttu nii kõvad, et ma taignast viimast kui ti
 ### Viimased *
     2014-12-28
     
-<img src="./IMG_3310.JPG" width="250px">
+<img src="img/IMG_3310.JPG" width="250px">
     
 - 200g võid
 - 50g suhkrut
@@ -116,3 +116,21 @@ Suureteralise suhkru segasin sisse viimasena vahetult enne pätsimist.
 
 ----
 \* Selgus, et tatrajahu asemel olin sepikujahu kasutanud. Seega siis tuleb neid pigem sepikuteks kui tatraküpsisteks kutsuda.
+
+### Kõige viimased
+    2015-01-03
+    
+<img src="img/IMG_3323.JPG" width="250px">
+    
+- 700g jahu
+- 400g võid
+- 100g sinihallitusjuustu
+- 6 muna
+- 50g suhkrut
+- soola
+
+<img src="img/IMG_3324.JPG" width="250px">
+
+Puudu jäi üks muna, liiga sai 50 võid.
+
+<img src="img/IMG_3325.JPG" width="250px">
