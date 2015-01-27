@@ -14,4 +14,4 @@ Tatraleib
 50 minutit eelkuumutatud ahjus ~220°C
 
 Taigen on rammusa hapukoore paksune, kergelt voolav.  
-Lõhnab oivaliselt - veidi magusalt, kuigi mingeid magusaineid ei lisanud.
+Ahjust tulnud leib lõhnab oivaliselt - veidi magusalt, kuigi mingeid magusaineid ei lisanud.
