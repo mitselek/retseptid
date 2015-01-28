@@ -2,6 +2,8 @@ Tatraleib
 ===========
     2015-01-27
 
+<img src="img/tatraleib.jpeg" width="250px">
+
 |       aine | kogus  |   g |
 |-----------:|-------:|----:|
 |  tatrapüül | 5,5 dl | 390 |
