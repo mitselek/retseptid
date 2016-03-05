@@ -26,3 +26,7 @@
 - code: 281676202931
 - seeds: 10
 
+---
+
+[Germination Instructions](https://www.youtube.com/watch?v=AHFhcVVpCkk)
+
